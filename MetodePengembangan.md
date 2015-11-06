@@ -1,0 +1,3 @@
+# Metode Pengembangan APDOL #
+
+Metode pengembangan Aplikasi Pencairan Dana Online menggunakan metode pengembangan Iterative. Alasan nya adalah metode iterative tidak harus menunggu suatu pekerjaan diselesaikan baru kemudian melanjutkan pekerjaan yang lain (waterfall). Selain itu metode iterative memungkinkan apabila suatu pekerjaan yang tidak dapat terselesaikan masih bisa diselesaikan di kesempatan yang lain.
